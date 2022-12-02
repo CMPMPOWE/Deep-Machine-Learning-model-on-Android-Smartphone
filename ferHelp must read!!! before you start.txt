@@ -1,0 +1,65 @@
+
+Step by step guide : 
+The Folder called 'Test-copy' is filled with open-source images  for testing the models
+on your own pc or laptop.
+look for open_content path then you see 'test' which you replace the file name  for the model to use the image tot test on.
+ 
+
+Dataset for testing : 
+You would need to rename the Folder to allow the model to read the dataset and run.
+I also added more image to the 4100, so it is slightly more to test.
+You can delete the images to suit your computer memory.
+!!!Make sure to have the image in jpeg or png format if you want to add more images into your own dataset.!!!
+
+If you like to add more images, then make sure the images are in png or jpeg format as 
+if using a different format might stop the model from working. 
+
+Make sure to download this version of python : 
+https://www.python.org/downloads/release/python-370/
+
+
+If your stuck on : how do I know what version of python I have. Go to the command prompt/cmd.
+Then type python in the console and it will display what python version you have. 
+
+
+If, you don't have the right version. Go on youtube or google on "how to remove python out of your system" then the issue is solved. 
+ When you have installed, 3.7.0 first step is done. 
+ 2nd step is to download Tensorflow then you should be ready to go. 
+
+
+to download the rest of what software is required.
+You can download by 
+going into the command prompt when you  put cmd in the dir of any FER version  which displays screenshot of me putting in the cmd 
+and having the command prompt to show. 
+Then you type this in. 
+
+To install all the dependencies automatically run the following command:
+
+pip install -r requirements.txt
+
+To run the program just run the following command:
+
+python AppFinal.py
+Then you have eveything installed. 
+
+Run the model intruction 
+
+ To Run The Model.
+
+ be in the file directory and where it shows: This PC >  document > Fer 
+ then you double click in that section as put as cmd and press enter
+ Then you typee this as follows: 
+cd Scripts 
+activate 
+cd ..
+python AppFinal.py 
+press: enter
+This will start to run the testing model. 
+You will have to make sure to write python before any file directory of example.py 
+
+then if testing is done  after giving out a speed time
+then type as follows: deactivate 
+
+youtube video : 
+
+

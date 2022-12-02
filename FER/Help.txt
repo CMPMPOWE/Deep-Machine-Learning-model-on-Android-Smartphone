@@ -1,0 +1,7 @@
+To install all the dependencies automatically run the following command:
+
+pip install -r requirements.txt
+
+To run the program just run the following command:
+
+python AppFinal.py
